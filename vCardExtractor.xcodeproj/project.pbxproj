@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5BC595EF1563FBFA00BB5AE5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5BC595EE1563FBFA00BB5AE5 /* README.md */; };
 		5BF3F9AC1563AFA100AFB09A /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5BF3F9AB1563AFA100AFB09A /* Cocoa.framework */; };
 		5BF3F9B61563AFA100AFB09A /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5BF3F9B41563AFA100AFB09A /* InfoPlist.strings */; };
 		5BF3F9B81563AFA100AFB09A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BF3F9B71563AFA100AFB09A /* main.m */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5BC595EE1563FBFA00BB5AE5 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		5BF3F9A71563AFA100AFB09A /* vCardExtractor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vCardExtractor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BF3F9AB1563AFA100AFB09A /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		5BF3F9AE1563AFA100AFB09A /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
@@ -57,6 +59,7 @@
 		5BF3F99C1563AFA100AFB09A = {
 			isa = PBXGroup;
 			children = (
+				5BC595EE1563FBFA00BB5AE5 /* README.md */,
 				5BF3F9B11563AFA100AFB09A /* vCardExtractor */,
 				5BF3F9AA1563AFA100AFB09A /* Frameworks */,
 				5BF3F9A81563AFA100AFB09A /* Products */,
@@ -93,8 +96,8 @@
 		5BF3F9B11563AFA100AFB09A /* vCardExtractor */ = {
 			isa = PBXGroup;
 			children = (
-				5BF3F9D01563B04300AFB09A /* Person.m */,
 				5BF3F9D11563B04300AFB09A /* Person.h */,
+				5BF3F9D01563B04300AFB09A /* Person.m */,
 				5BF3F9CB1563B02500AFB09A /* ViewController.h */,
 				5BF3F9CC1563B02500AFB09A /* ViewController.m */,
 				5BF3F9CD1563B02500AFB09A /* ViewController.xib */,
@@ -175,6 +178,7 @@
 				5BF3F9BC1563AFA100AFB09A /* Credits.rtf in Resources */,
 				5BF3F9C21563AFA200AFB09A /* MainMenu.xib in Resources */,
 				5BF3F9CF1563B02500AFB09A /* ViewController.xib in Resources */,
+				5BC595EF1563FBFA00BB5AE5 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -311,6 +315,7 @@
 				5BF3F9C71563AFA200AFB09A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
