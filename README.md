@@ -36,8 +36,6 @@ Well, just start the app and open some vCards. Save them to a CSV file then.
 
 ## Thanks
 
-Huge thanks to [our contributors](http://github.com/samsoffes/sstoolkit/contributors), [Jake Marsh](http://deallocatedobjects.com), and [Mike Rundle](http://flyosity.com).
-
 [Person]: https://github.com/planetexpress69/vCardExtractor/blob/master/vCardExtractor/Person.h
 [ViewController]: https://github.com/planetexpress69/vCardExtractor/blob/master/vCardExtractor/ViewController.h
 [VCardParser]: https://github.com/planetexpress69/vCardExtractor/blob/master/vCardExtractor/VCardParser.h
