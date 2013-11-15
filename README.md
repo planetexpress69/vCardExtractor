@@ -6,7 +6,7 @@ If you're using this in your project, I'd love to hear about it! [Send me an ema
 
 ## Documentation
 
-There's simply no doucmentation, yet. :-)
+There's simply no documentation, yet. :-)
 
 ## Classes
 
@@ -19,7 +19,7 @@ There's simply no doucmentation, yet. :-)
 
 ### View Controllers
 
-* [ViewController][] - manages the one and only view that xurrently exists.
+* [ViewController][] - manages the one and only view that currently exists.
 
 ### Misc
 
